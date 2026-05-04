@@ -1,5 +1,6 @@
 print("Hello World")
 print(444+555)
+<<<<<<< HEAD
 #commit changes in branch
 
 print("branchone change")
@@ -18,3 +19,7 @@ print("done through the VS code line 2 commit")
 ###
 ## code changes done to test the merge and commit.
 ## end of code
+
+#commit changes in branch
+ print("testing for merge related")
+
